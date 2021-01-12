@@ -1,1 +1,1 @@
-# panada-commerce-bootstrap
+# bootstrap-commerce
