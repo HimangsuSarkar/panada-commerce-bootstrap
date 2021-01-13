@@ -1,3 +1,11 @@
-.top-banner{
+.top-banner,.Subcribe{
    background-color: #fceae8; 
+}
+
+.btn-color{
+    background-color:#ff277c ;
+}
+.footer-border{
+    border: 0;
+    background-color: #ffffff;
 }
